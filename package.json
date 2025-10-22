@@ -2,7 +2,9 @@
   "name": "n8n-on-render",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "start": "n8n start"
   },
